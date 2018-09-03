@@ -8,7 +8,10 @@
 <!doctype html>
 <html>
 
-
+<head>
+	<title>Test Website</title>	
+</head>
+	  
 <body>
 <div class="card col-md-4"> <img class="card-img-top" src="images/card-img.png" alt="Card image cap">
   <div class="card-body">
